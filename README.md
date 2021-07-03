@@ -1,0 +1,1 @@
+This is my first graduation project, a software application for Yaskawa Motoman_mini. It uses UDP protocol to send command and receive data from the robot. The UI also combines the design graphic of a real robot using OpenGL library 
